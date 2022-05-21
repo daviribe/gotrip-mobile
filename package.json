@@ -8,6 +8,7 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "optimize": "npx expo-optimize",
+    "publish": "expo publish",
     "eject": "expo eject",
     "test": "jest --watchAll"
   },
